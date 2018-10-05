@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crested-idiom-216905",
+  "private_key_id": "ad26c73462f2e21af1da925e02abff04cdf68bff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDskOld+l/031c9\nne2up0CTIMzY6z9yKRxKDRc+ZG53EExelrdP5aJ1reFP9Yv9DDG/R20RifGydgjF\nE/j3ayHx8V6hMDKqqTTeuAG61PZg5fALb0LCyq3VXd9la+u3Yn03fY/0mp4Ir3Ac\nTe3eGZGGlu/21mJH3YRU/KDSWmJaDFoTK7nfFHNTxlCKc+pFJtomahYIO9pP7AF1\nzouWdwML6rf+gl1buqyb6sxoMUU89fF6WlDxHo6MIdlJilkPF+Ac4+hygO0Dg9Rw\nrWV3QIp8jQKCfsbI1QsalvXlj3bc/wXv83x5quTiP7pgwGxToA/YHefCn/skVHwV\nt4YGmyU1AgMBAAECggEAQWMaheXXEQWMhRT6ZdyH3kLiLBD2A/V2AsfUhWPYHqPM\nIBbziytzOKi7jtDVhTeSJoc1D/R7cHLsoKCRH74mb0vidpYuYvqLCQZ+P+huQ0E7\nFMYHg3TnEIM2ZL+sMw+Pgb98g0UbalYnnEMz/MA/d56PrD/8gVWqppz/TLU72xxn\n1eSNgZXLl15cN23GsbCmdRqcb2alW4NRnrzpXgx5vlus/clLGNO+c5fS9COfZCbe\nbBvWjfMyaISwQZR6yHon0SnNPCPsnM5j2EUFV3AyIwGaeFmoFiHr3t5A7vlNtjiT\njuwtC2NnPpzMoHZgZ+qax6niEOVbKOrQEL92AN68nwKBgQD682i5kZE0nXaaKSKb\nvl4Fn61lRcjbXtbblEXATDo8Ds2xfiF7SqoIs++/FmILn4gAApOc6pTE65YGTzTM\niGi6oNJrHnpjmbllubmPXjVMDGhEyz0ml3ZTj4gW+hJNydVfr0FiU6VC5CKDAxaB\nwtY6OO8UKzh/L5nY6U/9W/3+cwKBgQDxU2juJAtO+eSRJsnnOD0+PVUy6wk9cl6k\nKNpJYt9NTgA50QVB/sQRQBIUemV8kB7F3OdGoyRcplT+cCNNqogb2VU6LBenjeJ5\n+6FjAwZ1hBSxtDrxKr+20X+4XulMYlXAoXanrQAlxr4487pPxvNNkO2cE2GTe4Ca\nbod59tN7twKBgQCCxeWFDn6E1KnBnD4Uuxd0BsntRHhvGPUOaC4RD6gpM+2s2PXJ\nshb5ggsloRxmwjO1DaKu2u+7zqjXkN8K1ur8lmIQwEk3LhyXDjnMpGNRxgVwFBlB\nyxw2X02j650uPEedHU8NVlmAijIR48IOzOGmZZTxBbTjUoLxrmOovA+YUQKBgQDC\ntFVYreQh2CS9p9oGn61p5fozlsZhuUD6matkwk0ABgrQmv/u+yod8N+lfgsbsPvj\nEBPZPg88YUb58mfJZeli7rqAsMp0+VjcqlTPmcVAU0yPA6b6pU8ApY6ypoD8i+o7\n/QnKxx3zXKJlON/9Nbtfvaq33js/zsk30C2mDasbiQKBgFtEkLALpmX3XooohYo5\nYedumJzEiLyjXOW+3aU9/zgQkqesB9o1DiyRNV+VE0bwyDKwkyKllLYumlJMlnps\nP+d6EeNoku57NoBAwqSjZOtmpV3TTyQ+tbNPJKXXqO8dGpWJoA0Q5zpbGDjYsio3\n9VqLJDijKjswthLteK+hwLOe\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonfirebase@crested-idiom-216905.iam.gserviceaccount.com",
+  "client_id": "115618030772047368983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonfirebase%40crested-idiom-216905.iam.gserviceaccount.com"
+}
