@@ -1,4 +1,4 @@
-import tkinter as tk
+import Tkinter as tk
 
 
 class Page(tk.Tk):
@@ -22,10 +22,6 @@ class StartPage(tk.Frame):
 
 	def __init__(self,parent,controller):
 		tk.Frame.__init__(self,parent)
-		# label = tk.Label(self,text="Login")
-		# label.pack()
-		# button = tk.Button(self, text="Login",command=lambda:controller.show_frame(PageOne))
-		# button.pack()
 		tk.Label(self, text="First Name").grid(row=0)
 		tk.Label(self, text="Last Name").grid(row=1)
 		login = tk.Button(self,text ="Login",command = lambda:controller.show_frame(PageOne))
